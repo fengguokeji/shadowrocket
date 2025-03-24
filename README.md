@@ -5,7 +5,7 @@
 
 Shadowrocket 是一款基于规则的代理实用程序客户端，适用于 iPhone、iPad 和 Apple TV。
 
-[在线安装](#)
+[点击购买](https://fengguokeji.web.app/)
 
 ---
 
