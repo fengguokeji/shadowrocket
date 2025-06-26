@@ -8,6 +8,12 @@ Shadowrocket 是一款基于规则的代理实用程序客户端，适用于 iPh
 # [点击购买节点](https://fengguokeji.web.app/)
 
 ---
+## 海外网站加速：加速访问Google、YouTube、Twitter、Instagram、GitHub等热门国际网站。
+
+# 数据加密：全面加密您的数据，保护隐私安全。
+
+# 多平台兼容：支持iOS、安卓、Windows、Mac等多种设备。
+# 超越50条线路，遍布全球多个地区，助您轻松穿越网络，无忧连接
 
 ### 主要特点
 
