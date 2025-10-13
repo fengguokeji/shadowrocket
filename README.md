@@ -1,4 +1,4 @@
-# Shadowrocket  小火箭   小火箭节点。
+# Shadowrocket  小火箭   小火箭节点  小火箭订阅。
 ## 适用于 iPhone/iPad/Apple TV/Mac(M系列芯片)  
 Shadowrocket 是一款基于规则的代理实用程序客户端，适用于 iPhone、iPad 、Apple TV 和 Mac(M系列芯片)  
 
