@@ -40,3 +40,33 @@ URL 规则支持 Cloudflare 无服务器，支持托管配置及更灵活的脚�
 
 #### 💻 实用的客户端
 适用于 iPhone/iPad 终端的便捷代理客户端，增强用户网络管理体验。
+# Shadowrocket 配置与优化指南（或你的仓库主题）
+
+[![Star](https://img.shields.io/github/stars/yourusername/yourrepo)](https://github.com/yourusername/yourrepo) [![Fork](https://img.shields.io/github/forks/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
+
+## 简介
+这是一个 **Shadowrocket**（小火箭）代理工具的配置仓库，提供**免费节点**、**订阅地址**和**规则集**，帮助用户实现**科学上网**和**代理分流**。支持 **socks5**、**Shadowsocks**、**Vmess** 等协议，适用于 iOS/macOS。
+
+关键词：**Shadowrocket 配置**、**小火箭订阅**、**免费节点分享**、**代理规则**、**去广告脚本**。
+
+## 功能特点
+- **节点管理**：自动更新订阅、Ping 排序、节点筛选（e.g., **clash 节点**、**v2ray 订阅**）。
+- **规则优化**：**GeoIP 规则**、**域名分流**（DOMAIN-SUFFIX, IP-CIDR）、**HTTPS 解密**。
+- **模块支持**：**证书模块**、**URL 重写**、**DNS 劫持**，兼容 **Quantumult X** 和 **Surge**。
+- **懒人配置**：一键导入 **lazy_group.conf**，支持 **iCloud 同步** 和 **流量统计**。
+
+## 安装与使用
+1. **订阅添加**：复制 URL（如 `https://example.com/subscribe`），在 Shadowrocket 中导入。
+2. **规则导入**：下载 **ruleset** 文件，启用 **全局路由** 或 **场景模式**。
+3. **配色主题**：安装 **模块**，自定义 **NavigationBarColor** 等（参考 [配色仓库](https://github.com/LOWERTOP/Shadowrocket-First)）。
+
+示例配置（YAML 格式）：
+```yaml
+proxies:
+  - name: "免费节点"
+    type: socks5
+    server: example.com
+    port: 1080
+rules:
+  - DOMAIN-SUFFIX,google.com,PROXY
+  - GEOIP,CN,DIRECT
