@@ -1,71 +1,78 @@
-# Shadowrocket,小火箭,Shadowrocket官网,Shadowrocket,小火箭节点,小火箭订阅,科学上网,梯子，魔法，可用于科学上网、魔法上网、翻墙梯子等场景
-支持 Shadowsocks / Vmess / Trojan / Socks5 等协议，并可导入各种免费节点订阅及规则集
-## 适用于 iPhone/iPad/Apple TV/Mac(M系列芯片)  
-Shadowrocket 是一款基于规则的代理实用程序客户端，适用于 iPhone、iPad 、Apple TV 和 Mac(M系列芯片)  
+# 🚀 Shadowrocket 小火箭 2026最新 AI梯子 AI翻墙节点订阅  
+**小火箭官网 | 小火箭节点 | 小火箭订阅 | 科学上网 | 梯子 | 魔法 | 链式代理 | 静态住宅IP**
 
-# [点击购买节点](https://app.fengguo.top/)
+**支持 Shadowsocks / Vmess / Trojan / Socks5 全协议**  
+**一键导入免费节点 + AI专属懒人规则集**  
+**适用于 iPhone / iPad / Apple TV / Mac（M系列芯片）**
 
----
-## 海外网站加速：加速访问Google、YouTube、Twitter、Instagram、GitHub等热门国际网站。
+Shadowrocket（小火箭）是 iOS/macOS 最强基于规则的代理客户端，完美支持 iOS 13+ 全平台，从 iPhone 到 Apple TV、M 系列 Mac 全部丝滑运行。
 
-# 数据加密：全面加密您的数据，保护隐私安全
+**AI 圈刚需神器**：近 3 个月 X（Twitter）高阅读量爆款帖（246万+、343万+、369万+ 阅读）一致推荐——不配规则 = 国内网站也走代理 → 流量翻倍 + IP异常 → ChatGPT/Claude/Grok 账号秒封！
 
-# 多平台兼容：支持iOS、安卓、Windows、Mac等多种设备。
-# 超越50条线路，遍布全球多个地区，助您轻松穿越网络，无忧连接
+**[点击购买 2026 AI专用稳定节点（低延迟住宅IP + 链式代理）](https://app.fengguo.top/)**
 
-### 主要特点
+### 🔥 2026 AI用户最爱功能（X爆款真实反馈）
+- **AI工具秒响应加速**：ChatGPT 4o / Claude 3.5 Sonnet / Grok / Gemini / Perplexity 无延迟对话，Midjourney / Stable Diffusion 图像生成 4K 秒出，Agent / 代码补全不卡顿
+- **海外 AI 全解锁**：绕过地域限制，访问全球最新模型 + 付费功能（ChatGPT Plus、Claude Pro、Grok Premium）
+- **静态住宅IP + 链式代理**：养号 / AI运营零风险，IP伪装真实家庭宽带，防封号神器（X 25万+ 阅读教程标配）
+- **超越50+全球低延迟线路**：AI聊天 / GitHub Copilot / YouTube 教程 / Instagram 素材 全程高速
+- **多平台兼容**：iOS / Mac / Apple TV + Karing 扫码同步规则
 
-#### 🚀 不收集数据的 App
-开发人员不会从此应用收集任何数据、连接、域名，用户可配置阻止广告。
+### 🚀 AI专属特点（直接来自246万阅读爆款帖）
+#### ✅ 不收集数据 + 去广告 + AI流量省一半
+开发者零数据收集，配懒人规则后：**广告消失、国内站秒开、流量减半**（AI用户实测反馈）。
 
-#### 📱 适用于 iPhone/iPad/Apple TV 设备
-支持 iOS 13 及以上版本，从头设计全功能应用。支持所有 HTTP/HTTPS/TCP 流量，并配置远程服务器。
+#### 📱 完美支持 iPhone/iPad/Apple TV/Mac
+iOS 13+ 全流量（HTTP/HTTPS/TCP/UDP）+ IPv6，AI工具全兼容。
 
-#### ✍️ 本地地址重写
-完全支持 IPv6，提供多种在线和离线格式支持，并允许请求重写。
+#### ✍️ 本地地址重写 + IPv6 + QUIC
+支持加密 DNS、请求重写，AI Agent 网络调用更稳。
 
-#### 📊 网络流量统计
-记录和显示应用在 iOS 设备中的 HTTP、HTTPS、DNS 请求、运营 WiFi、蜂窝数据流量等详细信息，增强网络连接管理。
+#### 📊 流量统计 + Ping测速
+实时看哪个节点最适合 ChatGPT / Claude / Grok，挑最低延迟。
 
-#### 🔠 多种导入规则
-URL 规则支持 Cloudflare 无服务器，支持托管配置及更灵活的脚本管理。
+#### 🔗 AI刚需懒人配置一键导入（X最推）
+**复制这个链接**（Johnshall 每日更新，246万阅读帖强烈推荐）：  
+https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy_group.conf  
+黑名单分流 + 广告拦截 + AI优化规则，2分钟搞定，**国内直连 + 海外AI走代理**，防封号 + 流量省 50%！
 
-#### 🔗 支持多种终端代理
-支持在终端环境上工作，兼容 trojan、cloak、gost、v2ray 核心等，并支持加密 DNS 及 QUIC 协议。
+#### 🛠️ 支持链式代理 + 多种终端
+兼容 Trojan / VMess / Clash 规则。**AI养号必备**：机场节点 → 静态住宅IP → AI平台，IP干净不跳。
 
-#### 🛠️ 支持多种配置规则
-可批量编辑规则，支持按域名、域名前缀、端口、运营商、地理位置等多种条件编写代理规则。
+#### 🎯 高精度规则匹配
+DOMAIN-SUFFIX、GeoIP、IP-CIDR、子域名全支持。场景模式：**AI全局代理** / **国内直连** / **分流模式**。
 
-#### 🎯 高精度匹配
-提供多个匹配模式，支持完全匹配、子域名匹配、CIDR IP 段匹配及 GeoIP 规则。
+#### 💻 自动更新 + iCloud同步
+订阅 + 规则后台自动更新，AI工具永不断连。
 
-#### 💻 实用的客户端
-适用于 iPhone/iPad 终端的便捷代理客户端，增强用户网络管理体验。
-# Shadowrocket 配置
+### Shadowrocket AI配置仓库（2026最新免费节点 + 规则）
+提供 **AI专用免费节点分享**、**订阅地址**、**去广告规则集**、**GeoIP分流**。支持 Clash / Quantumult X / Surge 一键导入。
 
-## 简介
-这是一个 **Shadowrocket**（小火箭）代理工具的配置仓库，提供**免费节点**、**订阅地址**和**规则集**，帮助用户实现**科学上网**和**代理分流**。支持 **socks5**、**Shadowsocks**、**Vmess** 等协议，适用于 iOS/macOS。
+**AI关键词**：Shadowrocket AI配置、小火箭AI节点、ChatGPT梯子、Claude翻墙、Grok订阅、AI链式代理、静态住宅IP养号。
 
-关键词：**Shadowrocket 配置**、**小火箭订阅**、**免费节点分享**、**代理规则**、**去广告脚本**。
+#### AI功能亮点
+- **节点管理**：自动Ping测速，优先挑AI低延迟节点（ChatGPT / Midjourney 专用）
+- **规则优化**：GeoIP中国直连 + 海外AI PROXY + HTTPS解密
+- **懒人一键导入**：lazy_group.conf + 证书模块 + URL重写（X爆款配置）
+- **养号神器**：Socks5住宅IP链式代理，AI运营 / 推特创作者认证零风险
 
-## 功能特点
-- **节点管理**：自动更新订阅、Ping 排序、节点筛选（e.g., **clash 节点**、**v2ray 订阅**）。
-- **规则优化**：**GeoIP 规则**、**域名分流**（DOMAIN-SUFFIX, IP-CIDR）、**HTTPS 解密**。
-- **模块支持**：**证书模块**、**URL 重写**、**DNS 劫持**，兼容 **Quantumult X** 和 **Surge**。
-- **懒人配置**：一键导入 **lazy_group.conf**，支持 **iCloud 同步** 和 **流量统计**。
+#### 3步2分钟安装（AI用户专属教程）
+1. **添加订阅**：复制订阅URL → 配置 → + → Subscribe → 自动更新  
+2. **导入AI懒人规则**：配置 → + → 粘贴 Johnshall 地址 → 下载 → 选中 → 断开重连  
+3. **链式代理（住宅IP）**：添加住宅Socks5节点 → 编辑 → 代理通过选机场 → 连通性测试 → 全局代理  
+4. **必开**：订阅自动更新 + 后台更新  
 
-## 安装与使用
-1. **订阅添加**：复制 URL（如 `https://example.com/subscribe`），在 Shadowrocket 中导入。
-2. **规则导入**：下载 **ruleset** 文件，启用 **全局路由** 或 **场景模式**。
-3. **配色主题**：安装 **模块**，自定义 **NavigationBarColor** 等。
-
-示例配置（YAML 格式）：
+**示例配置（YAML）**
 ```yaml
 proxies:
-  - name: "免费节点"
+  - name: "AI住宅IP节点"
     type: socks5
-    server: example.com
+    server: your-residential-ip
     port: 1080
 rules:
-  - DOMAIN-SUFFIX,google.com,PROXY
+  - DOMAIN-SUFFIX,chatgpt.com,PROXY
+  - DOMAIN-SUFFIX,claude.ai,PROXY
+  - DOMAIN-SUFFIX,grok.x.ai,PROXY
+  - DOMAIN-SUFFIX,midjourney.com,PROXY
   - GEOIP,CN,DIRECT
+  - MATCH,PROXY
