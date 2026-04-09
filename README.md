@@ -6,7 +6,7 @@
 
 Shadowrocket（小火箭）是 iOS/macOS 最强基于规则的代理客户端，完美支持 iOS 13+ 全平台，从 iPhone 到 Apple TV、M 系列 Mac 全部丝滑运行。
 
-**AI 圈刚需神器**：近 3 个月 X（Twitter）高阅读量爆款帖（246万+、343万+、369万+ 阅读）一致推荐——不配规则 = 国内网站也走代理 → 流量翻倍 + IP异常 → ChatGPT/Claude/Grok 账号秒封！
+**AI 圈刚需神器**：近 3 个月 X（Twitter）高阅读量爆款帖（246万、343万+、369万+ 阅读）一致推荐——不配规则 = 国内网站也走代理 → 流量翻倍 + IP异常 → ChatGPT/Claude/Grok 账号秒封！
 
 **[点击购买 2026 AI专用稳定节点](https://app.fengguo.top/)**
 
