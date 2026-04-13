@@ -12,7 +12,7 @@ Shadowrocket（小火箭）是 iOS/macOS 最强基于规则的代理客户端，
 
 ### 🔥 2026 AI用户最爱功能（X爆款真实反馈）
 - **AI工具秒响应加速**：ChatGPT 4o / Claude 3.5 Sonnet / Grok / Gemini / Perplexity 无延迟对话，Midjourney / Stable Diffusion 图像生成 4K 秒出，Agent / 代码补全不卡顿
-- **海外 AI 全解锁**：绕过地域限制，访问全球最新模型 + 付费功能（ChatGPT Plus、Claude Pro、Grok Premium）
+- **海外 AI 全解锁**：绕过地域限制，访问全球最新模型 + 付费功能（ChatGPT Plus、Claude Pro、Grok Premium）.
 - **静态住宅IP + 链式代理**：养号 / AI运营零风险，IP伪装真实家庭宽带，防封号神器（X 25万+ 阅读教程标配）
 - **超越50+全球低延迟线路**：AI聊天 / GitHub Copilot / YouTube 教程 / Instagram 素材 全程高速
 - **多平台兼容**：iOS / Mac / Apple TV + Karing 扫码同步规则
