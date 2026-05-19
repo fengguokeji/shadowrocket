@@ -51,7 +51,7 @@ DOMAIN-SUFFIX、GeoIP、IP-CIDR、子域名全支持。场景模式：**AI全局
 
 #### AI功能亮点
 - **节点管理**：自动Ping测速，优先挑AI低延迟节点（ChatGPT / Midjourney 专用）
-- **规则优化**：GeoIP中国直连 + 海外AI PROXY + HTTPS解密
+- **规则优化**：GeoIP中国直连 + 海外AI PROXY + HTTPS
 - **懒人一键导入**：lazy_group.conf + 证书模块 + URL重写（X爆款配置）
 - **养号神器**：Socks5住宅IP链式代理，AI运营 / 推特创作者认证零风险
 
